@@ -1,8 +1,10 @@
 # Hackita project
 Ambas partes, front y back se encuentran dentro de este repositorio.
 
-No pudimos realizar el despliegue despliegue de nuestro proyecto, se presentó un conflicto con un azure ya que no supimos estrucutrar los archivos y ello impedía que finalizara el proceso de carga , como se creo todo desde cero nos faltó experiencia en la implementacion.
+No pudimos realizar el despliegue despliegue de nuestro proyecto, se presentó un conflicto con un azure ya que no supimos estructurar los archivos y ello impedía que finalizara el proceso de carga , como se creo todo desde cero nos faltó experiencia en la implementacion.
 Localmente funciona nuestra solución y se pueden hacer las consultas de la API
+En el siguiente enlace se puede apreciar la parte del fron-end desplegada aunque sin funcionalidad
+https://ocean2-c0d3d.web.app/
 
 El presente proyecto fue concebido para la participación en el hackaton HACK THE OCEAN de [LaunchX](https://www.instagram.com/innovaccionvirtual/?hl=en).
 
