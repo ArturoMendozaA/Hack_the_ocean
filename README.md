@@ -1,4 +1,9 @@
 # Hackita project
+Ambas partes, front y back se encuentran dentro de este repositorio.
+
+No pudimos realizar el despliegue despliegue de nuestro proyecto, se presentó un conflicto con un azure ya que no supimos estrucutrar los archivos y ello impedía que finalizara el proceso de carga , como se creo todo desde cero nos faltó experiencia en la implementacion.
+Localmente funciona nuestra solución y se pueden hacer las consultas de la API
+
 El presente proyecto fue concebido para la participación en el hackaton HACK THE OCEAN de [LaunchX](https://www.instagram.com/innovaccionvirtual/?hl=en).
 
 Nuestra tripulación consiste en estudiantes de back end NodeJs:
@@ -19,7 +24,7 @@ Tabla de Contenidos
 7. [Flujo del programa](#id7)
 
 ## Dependencias <a name="id1"></a>
-El presente proyecto está desarrollado utilizando Node.js, por lo tanto utilizamos [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) como package manager.
+Este proyecto está desarrollado utilizando Node.js, por lo tanto utilizamos [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) como package manager.
 
 A continuación se muestran las dependencia utilizadas en le proyecto, para poder instalarlas utilizar ``npm install``
 1. ``Jest`` : Dependencia necesaria para realizar y crear las pruebas de unidad.
